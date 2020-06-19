@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to WordBox!"
 date:   2020-06-19 13:18:22 +1000
 categories: jekyll update
 ---
